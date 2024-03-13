@@ -7,7 +7,7 @@ function Employer() {
       <Header name="employer" />
       <div className="emplyer-div">
         <div className="employer-img">
-          <img src={employerimg} />
+          <img src={employerimg} alt="img"/>
         </div>
         <div className="employer-inner ">
           <p>

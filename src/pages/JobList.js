@@ -135,8 +135,8 @@ function JobList() {
 }
 function ListItem(prop) {
   var showdetails = () => {
-    document.querySelector("#defaultdiv").classList.remove("details-hide")
-    document.querySelector("#defaultdiv").classList.add("details-show");
+    // document.querySelector("#defaultdiv").classList.remove("details-hide")
+    // document.querySelector("#defaultdiv").classList.add("details-show");
     //document.querySelector("#job-list").classList.add("details-hide");
   };
 
